@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "83 movie: Reliving India’s epic cricket triumph",
+      "description": "A Bollywood ode to India's 1983 cricket world cup win recreates one of the greatest upsets in sports history.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-59731621",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DCB/production/_122493779_83.jpg",
+      "publishedAt": "2021-12-28T00:13:07Z",
+      "content": "Image source, Reliance Entertainment\r\nImage caption, 83 attempts to recreate the magic of India's 1983 cricket world cup win for millennials\r\nA new Bollywood film - 83 - tells the story of India's hi… [+5864 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Ex-Pakistan captain Hafeez retires from internationals",
+      "description": "Former Pakistan captain Mohammad Hafeez announces his retirement from international cricket.",
+      "url": "https://www.bbc.co.uk/sport/cricket/59857427",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11676/production/_122568217_59857427.jpg",
+      "publishedAt": "2022-01-03T08:25:12Z",
+      "content": "Mohammad Hafeez made his international debut in 2003\r\nFormer Pakistan captain Mohammad Hafeez has announced his retirement from international cricket.\r\nThe all-rounder played in 55 Tests, 218 one-day… [+1557 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "IPL 'next big step' to grow women's game, says NZ captain Devine - Reuters",
+      "description": "Franchise cricket has raised the profile of women's cricket and a full-fledged Indian Premier League (IPL) is the \"next step\" for its growth, New Zealand captain Sophie Devine said.",
+      "url": "https://www.reuters.com/lifestyle/sports/ipl-next-big-step-grow-womens-game-says-nz-captain-devine-2021-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/n5-CmR-Dwy6Iiqd1KGyo0LqFn8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BOU5VO7LRPAJAPZVSDLLS3GDA.jpg",
+      "publishedAt": "2021-12-21T07:48:00Z",
+      "content": "NEW DELHI, Dec 21 (Reuters) - Franchise cricket has raised the profile of women's cricket and a full-fledged Indian Premier League (IPL) is the \"next step\" for its growth, New Zealand captain Sophie … [+1687 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Gary Naylor",
+      "title": "Three memories of cricket in 2021",
+      "description": "Following on from reviews of 2014, 2015, 2016, 2017, 2018, 2019 and 2020, here are a few moments to savour from 2021By Gary Naylor for the 99.94 Cricket BlogJoe Root started 2021 by making 228 and 186 as England beat Sri Lanka 2-0 in Galle. His brilliance was…",
+      "url": "https://amp.theguardian.com/sport/99-94-cricket-blog/2021/dec/21/three-memories-cricket-2021-england",
+      "urlToImage": "https://i.guim.co.uk/img/media/b74b199a2b60e276ba146221f5932f7a79ffd28e/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e85e4250d7b380328ec266e916be420a",
+      "publishedAt": "2021-12-21T11:03:09Z",
+      "content": "1) Joe Root punches the ball backward of point for runs\r\nJoe Root started 2021 by making 228 and 186 as England beat Sri Lanka 2-0 in Galle. His brilliance was half the story the other half was that … [+4554 chars]"
+    }
+  ]
+}
